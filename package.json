@@ -4,6 +4,8 @@
   "description": "",
   "main": "lnd_client.js",
   "dependencies": {
+    "@grpc/grpc-js": "^1.5.3",
+    "@grpc/proto-loader": "^0.6.9",
     "ws": "^8.4.2"
   },
   "devDependencies": {},
